@@ -1,0 +1,15 @@
+# Core Dependencies
+streamlit==1.38.0
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+plotly==5.24.1
+
+# Optional (Recommended for Visualization & Reports)
+matplotlib==3.9.2
+seaborn==0.13.2
+xgboost==2.1.2
+tensorflow==2.17.0
+reportlab==4.2.4
+openpyxl==3.1.5
+
